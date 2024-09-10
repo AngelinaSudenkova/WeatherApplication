@@ -14,11 +14,15 @@ Jetpack Compose for UI
 Retrofit for API calls
 Room for local database
 Coroutines for asynchronous tasks
-Dagger-Hilt for dependency injection!
-[SplashScreen](https://github.com/user-attachments/assets/e36fbc86-072f-48bc-9387-ef162d67fe92)
-![SearchScreen](https://github.com/user-attachments/assets/eab288b2-9642-4cc2-a35e-9d573f56b3bf)
-![MainNotFavorite](https://github.com/user-attachments/assets/6ad0da93-dcdb-4b3f-acb2-14883230d751)
-![MainFavorite](https://github.com/user-attachments/assets/25834e6d-d43b-4e79-b57f-076f5bc188d9)
-![FavoriteList](https://github.com/user-attachments/assets/3300390f-f2af-459e-963d-5311dc521905)
-![DeletingAndNavigating](https://github.com/user-attachments/assets/d2a6788d-ea6f-42e2-b231-8adb78666722)
-![Navigating](https://github.com/user-attachments/assets/df16c1ad-9c7f-4cf8-8242-1cc4efbc73fb)
+Dagger-Hilt for dependency injection
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e36fbc86-072f-48bc-9387-ef162d67fe92" alt="SplashScreen" width="200"/>
+  <img src="https://github.com/user-attachments/assets/eab288b2-9642-4cc2-a35e-9d573f56b3bf" alt="SearchScreen" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6ad0da93-dcdb-4b3f-acb2-14883230d751" alt="MainNotFavorite" width="200"/>
+  <img src="https://github.com/user-attachments/assets/25834e6d-d43b-4e79-b57f-076f5bc188d9" alt="MainFavorite" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3300390f-f2af-459e-963d-5311dc521905" alt="FavoriteList" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d2a6788d-ea6f-42e2-b231-8adb78666722" alt="DeletingAndNavigating" width="200"/>
+  <img src="https://github.com/user-attachments/assets/df16c1ad-9c7f-4cf8-8242-1cc4efbc73fb" alt="Navigating" width="200"/>
+</p>
